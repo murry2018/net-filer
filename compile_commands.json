@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/asd/work/net-dir",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/server.dir/server/server.c.o -c /Users/asd/work/net-dir/server/server.c",
+  "file": "/Users/asd/work/net-dir/server/server.c"
+}
+]
